@@ -2,3 +2,5 @@ A SCRIPT TO CONVERT THE SQUAD DATASET TO FOUR DIFFERENT TEXT FILES AS WELL AS FO
 
 RUN make command in the directory and keep your json format files in a folder named 'json_data_files'.
 Alternatively, you can also change the name of the variable 'FILEPATH' to the desired path you want to give for your json file.
+
+Output would be generated in two folders, namely "data_in_pickle_files" and "data_in_text_files".
